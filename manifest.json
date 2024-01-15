@@ -1,0 +1,7 @@
+{
+    "name": "NoLockedDoors",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/notTamion/NoLockedDoors",
+    "description": "Automatically unlocks any locked doors",
+    "dependencies": []
+}
