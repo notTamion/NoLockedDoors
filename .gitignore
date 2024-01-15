@@ -1,0 +1,9 @@
+.idea/
+NoLockedDoors.sln.DotSettings.user
+NoLockedDoors/NoLockedDoors.csproj
+
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
